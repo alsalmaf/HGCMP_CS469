@@ -49,7 +49,7 @@ Users can use a thumbs gesture to navigate through the playlist. A thumbs-down g
     python run.py
 ```
 
-4. **Input SoundCloud Playlist:** When promted, input your preferred SoundCloud playlist link.
+4. **Input SoundCloud Playlist:** When promted, input your preferred SoundCloud playlist link.  
 
-5. **Quit:** When you deem fit, input ctrl+c to close the programm.
+5. **Quit:** When you deem fit, use ctrl+c to close the programm.
 
