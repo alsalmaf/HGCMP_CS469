@@ -49,7 +49,10 @@ Users can use a thumbs gesture to navigate through the playlist. A thumbs-down g
     python run.py
 ```
 
-4. **Input SoundCloud Playlist:** When promted, input your preferred SoundCloud playlist link.  
-
-5. **Quit:** When you deem fit, use ctrl+c to close the programm.
+4. **Input SoundCloud Playlist:** When promted, input your preferred SoundCloud playlist link.
+```
+    Personal recommendation:
+    https://soundcloud.com/steven-r-klenke/sets/steve-klenke-instrumental-music-reel-variety-short-versions?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing
+``` 
+6. **Quit:** When you deem fit, use ctrl+c to close the programm.
 
