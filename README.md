@@ -37,14 +37,19 @@ Users can use a thumbs gesture to navigate through the playlist. A thumbs-down g
     cd HGCMP
 ```
 
-3. **Set Up Dependencies:** Install the required dependencies using the provided instructions.
+2. **Set Up Dependencies:** Install the required dependencies using the provided instructions.
        
    *The current latest version mediapipe 0.9.0.1 (a machine learning framework neccary for this project) currently provides wheels for Windows for Python 3.7-3.10 so you may need to downgrade your Python version.
 ```
     setup.bat
 ```
 
-5. **Run the Program:** Execute the program, and your webcam will become your music control center.
+3. **Run the Program:** Execute the program, and your webcam will become your music control center.
 ```
     python run.py
 ```
+
+4. **Input SoundCloud Playlist:** When promted, input your preferred SoundCloud playlist link.
+
+5. **Quit:** When you deem fit, input ctrl+c to close the programm.
+
