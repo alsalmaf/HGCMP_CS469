@@ -20,11 +20,10 @@ Users can make a "shaka" sign with their hand to play or pause the currently pla
 Users can adjust the volume level using hand gestures with zero to five fingers. Each finger represents a specific volume level, ranging from 0 to 100%. For example:
 
 - Zero fingers (closed fist) will mute the volume.
-- One finger will set the volume to 20%.
 - Two fingers will set the volume to 40%
-- Three fingers will set the volume to 60%
-- Four fingers will set the volume to 80%
 - Five fingers (open hand) will set the volume to 100%.
+
+![Project Diagram Image](https://github.com/alsalmaf/HGCMP_CS469/blob/main/instructionSetDiagram.png)
 
 ### Playlist Navigation:
 Users can use a thumbs gesture to navigate through the playlist. A thumbs-down gesture to the right will move to the next track, while a thumbs-up gesture to the left will go back to the previous track.
