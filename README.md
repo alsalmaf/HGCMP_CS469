@@ -23,7 +23,7 @@ Users can adjust the volume level using hand gestures with zero to five fingers.
 - Two fingers will set the volume to 40%
 - Five fingers (open hand) will set the volume to 100%.
 
-![Project Diagram Image](https://github.com/alsalmaf/HGCMP_CS469/blob/main/instructionSetDiagram.png)
+<img src="https://github.com/alsalmaf/HGCMP_CS469/blob/main/instructionSetDiagram.png" width="400">
 
 ### Playlist Navigation:
 Users can use a thumbs gesture to navigate through the playlist. A thumbs-down gesture to the right will move to the next track, while a thumbs-up gesture to the left will go back to the previous track.
