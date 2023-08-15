@@ -58,3 +58,7 @@ Users can use a thumbs gesture to navigate through the playlist. A thumbs-down g
 
 6. **Quit:** When you deem fit, use ctrl+c to close the programm.
 
+  **General Overview:**
+     
+<img src="https://github.com/alsalmaf/HGCMP_CS469/blob/main/systemOverview.png" width="600">
+
