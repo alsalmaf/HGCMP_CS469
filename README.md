@@ -31,7 +31,7 @@ Users can use a thumbs gesture to navigate through the playlist. A thumbs-down g
 
 1. **Clone the Repository:** Start by cloning this repository to your local machine.
 ```
-    git clone https://github.com/alsalmaf/HGCMP.git
+    https://github.com/alsalmaf/HGCMP_CS469.git
     cd HGCMP
 ```
 
