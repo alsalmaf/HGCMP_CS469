@@ -51,7 +51,7 @@ Users can use a thumbs gesture to navigate through the playlist. A thumbs-down g
        
    Below is a Personal recommendation:
 ```
-https://soundcloud.com/steven-r-klenke/sets/steve-klenke-instrumental-music-reel-variety-short-versions?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing
+https://soundcloud.com/steven-r-klenke/sets/steve-klenke-instrumental-music-reel-variety-short-versions?si=532128d11a774934bc536c4199117989&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing
 ```
 5. **Navigate Playlist:** Use these hand gestures for navigation.
 <img src="https://github.com/alsalmaf/HGCMP_CS469/blob/main/instructionSetDiagram.png" width="400">
